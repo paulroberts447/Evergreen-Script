@@ -1,1 +1,1 @@
-& "C:\install\Evergreen-Script\evergreen.ps1" -list -install -file C:\install\Evergreen-Script\LastSetting.txt
+& "C:\GitHub\Evergreen-Script\evergreen.ps1" -list -install -file C:\GitHub\Evergreen-Script\LastSetting.txt
